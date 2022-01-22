@@ -1,0 +1,27 @@
+.header{
+      display:flex;
+      justify-content: space-between;
+}
+.logo{
+      padding: 1.125rem 2.5rem;
+}
+.location{
+      display: flex;
+      padding: 1.125rem 4.5rem ;
+}
+.location:hover{
+      opacity: 0.8;
+}
+.loc-pin-img{
+      height: 1.25em;
+      padding-right: 0.5rem;
+}
+.loc-p{
+      text-transform: capitalize;
+      font-size: 0.928rem;
+      word-spacing: -0.1rem;
+      color:rgb(88, 82, 82);
+      align-self:baseline;
+      padding-top: 2.5px;
+}
+
